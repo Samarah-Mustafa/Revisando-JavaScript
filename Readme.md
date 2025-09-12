@@ -1,3 +1,9 @@
-# Teste Git - 1
+# Revisão JavaScript
 
-Esse projeto possue a finalidade de aprendizagem do uso do git por repetição continua de testes.
+Esse projeto tem por finalidade, a revisão do conteúdo de JavaScript:
+
+- Sintaxe e variáveis
+- Estrutura de dados
+- Operadores
+- Controle de fluxo
+- Laços de repetição
