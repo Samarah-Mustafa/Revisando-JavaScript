@@ -7,8 +7,8 @@ let peso = 70;
 console.log("Idade: ", idade);
 console.log("peso: ", peso);
 //Agora, se eu quisesse perguntar para o usuário a idade e o peso, eu poderia fazer assim:
-// idade = prompt("Qual a sua idade?");
-// peso = prompt("Qual o seu peso?");
+// let idade = prompt("Qual a sua idade?");
+// let peso = prompt("Qual o seu peso?");
 
 
 
@@ -38,9 +38,9 @@ let nomeCompleto = nome + " " + sobrenome; //O espaço entre aspas é para separ
 console.log("Nome Completo: ", nomeCompleto);
 
 //Caso eu quisesse perguntar o nome e sobrenome para o usuário, eu poderia fazer assim:
-//nome = prompt("Qual é o seu nome?");
-//sobrenome = prompt("Qual é o seu sobrenome?");
-//nomeCompleto = nome + " " + sobrenome;
+//let nome = prompt("Qual é o seu nome?");
+//let sobrenome = prompt("Qual é o seu sobrenome?");
+//let nomeCompleto = nome + " " + sobrenome;
 //console.log("Nome Completo: ", nomeCompleto);
 
 
